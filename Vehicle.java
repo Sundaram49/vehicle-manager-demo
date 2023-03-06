@@ -1,7 +1,9 @@
 public class Vehicle{
 
-   private PetrolEngine pe; 
+  
     public static void main(String[] args) {
+    PetrolEngine pe = new PetrolEngine(); 
+
        System.out.println("hellow World!"); 
        pe.start(); 
     }
