@@ -7,5 +7,6 @@ public class Vehicle{
        System.out.println("hellow World!"); 
        pe.start(); 
        de.start();
+       de.stop();
     }
 }
