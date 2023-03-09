@@ -8,5 +8,8 @@ public class Vehicle{
        pe.start(); 
        de.start();
        de.stop();
+   Bike bk = new Bike()  ; 
+
+
     }
 }
